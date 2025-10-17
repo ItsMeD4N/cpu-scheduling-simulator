@@ -46,4 +46,3 @@ A simple Python-based simulator for classic CPU scheduling algorithms. This proj
 
 ---
 
-## 📂 File Structure
